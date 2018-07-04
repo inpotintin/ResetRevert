@@ -6,6 +6,8 @@ public class ScrapComment {
 
         System.out.println("** 잘못 1 **");
 
+        System.out.println("** 잘못 2 **");
+
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
