@@ -4,7 +4,7 @@ public class ScrapComment {
 
         System.out.println("** 댓글 아이디 수집 시작 **");
 
-        System.out.println("** 잘못 4 **");
+        System.out.println("** 수정1 **");
 
         System.out.println("** 댓글 아이디 수집 종료 **");
 
