@@ -8,8 +8,6 @@ public class ScrapComment {
 
         System.out.println("** git add 2 **");
 
-        System.out.println("** git add 3 **");
-
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
