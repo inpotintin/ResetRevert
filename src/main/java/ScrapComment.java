@@ -12,7 +12,9 @@ public class ScrapComment {
 
         System.out.println("** git add 3 **");
 
-        System.out.println("** git stash **");
+        System.out.println("** git stash 1 **");
+
+        System.out.println("** git stash 2 **");
 
         System.out.println("** 댓글 아이디 수집 종료 **");
 
