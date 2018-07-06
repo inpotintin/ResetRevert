@@ -16,6 +16,12 @@ public class ScrapComment {
 
         System.out.println("** git stash 2 **");
 
+        System.out.println("** feature 1 **");
+
+        System.out.println("** feature 2 **");
+
+        System.out.println("** feature 3 **");
+
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
