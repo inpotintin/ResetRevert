@@ -10,8 +10,6 @@ public class ScrapComment {
 
         System.out.println("** feature 3 **");
 
-        System.out.println("** feature 4 **");
-
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
