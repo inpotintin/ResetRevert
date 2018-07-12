@@ -10,6 +10,12 @@ public class ScrapComment {
 
         System.out.println("** cherry pick 3 **");
 
+        System.out.println("** master cherry pick 1 **");
+
+        System.out.println("** master cherry pick 2 **");
+
+        System.out.println("** master cherry pick 3 **");
+
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
