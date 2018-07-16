@@ -16,6 +16,10 @@ public class ScrapComment {
 
         System.out.println("** amend test 3 **");
 
+        System.out.println("** amend test 4 **");
+
+        System.out.println("** amend test 5 **");
+
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
