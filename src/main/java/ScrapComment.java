@@ -16,6 +16,8 @@ public class ScrapComment {
 
         System.out.println("** client 1 **");
 
+        System.out.println("** client 2 **");
+
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
