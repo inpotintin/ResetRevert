@@ -24,6 +24,8 @@ public class ScrapComment {
 
         System.out.println("** rebase -i 1 **");
 
+        System.out.println("** rebase -i 2 **");
+
         System.out.println("** 댓글 아이디 수집 종료 **");
 
     }
