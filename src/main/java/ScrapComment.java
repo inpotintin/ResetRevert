@@ -10,6 +10,8 @@ public class ScrapComment {
 
         System.out.println("** cherry pick 3 **");
 
+        System.out.println("** server 1 **");
+
         System.out.println("** master 1 **");
 
         System.out.println("** master 2 **");
